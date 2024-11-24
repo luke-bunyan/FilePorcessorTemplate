@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilePorcessorTemplate", "FilePorcessorTemplate\FilePorcessorTemplate.csproj", "{A45419C1-A78B-4A07-AE61-E16BD16AA2C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A45419C1-A78B-4A07-AE61-E16BD16AA2C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A45419C1-A78B-4A07-AE61-E16BD16AA2C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A45419C1-A78B-4A07-AE61-E16BD16AA2C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A45419C1-A78B-4A07-AE61-E16BD16AA2C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
